@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution1", "Solution1\Solution1.csproj", "{7E0845EC-36A2-413B-A63E-15F99892882E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution2", "Solution2\Solution2.csproj", "{B86E8847-23B0-4291-A51E-F4238B50D208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution3", "Solution3\Solution3.csproj", "{DEF259D9-9A3B-45B4-9A00-746443A8B9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0845EC-36A2-413B-A63E-15F99892882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0845EC-36A2-413B-A63E-15F99892882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0845EC-36A2-413B-A63E-15F99892882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0845EC-36A2-413B-A63E-15F99892882E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86E8847-23B0-4291-A51E-F4238B50D208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86E8847-23B0-4291-A51E-F4238B50D208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86E8847-23B0-4291-A51E-F4238B50D208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86E8847-23B0-4291-A51E-F4238B50D208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF259D9-9A3B-45B4-9A00-746443A8B9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF259D9-9A3B-45B4-9A00-746443A8B9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF259D9-9A3B-45B4-9A00-746443A8B9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF259D9-9A3B-45B4-9A00-746443A8B9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68092016-7295-4F64-BAC0-40AA9BC22DAE}
+	EndGlobalSection
+EndGlobal
